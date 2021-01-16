@@ -7,3 +7,11 @@ I coded undirected/unweighted graph algorithm in python. My example consists of 
 
 ![graph_example](graph_code_example.png)
 undirected/unweighted graph example 
+
+Given a graph, i use the Depth-First-Search(DFS) and Breadh-First-Search algorithm to traverse the graph. I visualizated both algorithms. You can see implemented code on **traversal.py**
+
+![bfs](bfs_graph_traversal.png)
+bfs graph example 
+
+![dfs](dfs_graph_traversal.png)
+dfs graph example
