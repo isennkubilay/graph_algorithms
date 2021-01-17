@@ -154,7 +154,7 @@ class AdjacencyMatrixGraph(Graph):
             for v in self.get_adjacent_vertices(i):
                 print(i, "-->", v)
     
-g = AdjacencySetGraph(4, directed=True)
+g = AdjacencySetGraph(4)
 
 g.add_edge(0,1)
 g.add_edge(0,2)
